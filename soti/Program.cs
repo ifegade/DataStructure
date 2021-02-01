@@ -12,7 +12,7 @@ namespace soti
             Console.WriteLine("===========");
 
             // SquareRoot a = new SquareRoot();
-            CodilityBinanryGap a = new CodilityBinanryGap();
+            LeetCode_LongestSubstringWithoutRepeatingCharaters a = new LeetCode_LongestSubstringWithoutRepeatingCharaters();
             // CountTriplets a = new CountTriplets();
             // SellByMatch a = new SellByMatch();
             //LeftRotate a = new LeftRotate();
